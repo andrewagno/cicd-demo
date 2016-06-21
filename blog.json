@@ -19,7 +19,7 @@
   ],
   "labels": {
     "lastChangedBy": "andrew@agno.net",
-    "HA_PROXY": "external"
+    "HAPROXY_GROUP": "external"
   },
   "instances": 1,
   "cpus": 0.1,
