@@ -18,7 +18,8 @@
     "slave_public"
   ],
   "labels": {
-    "lastChangedBy": "andrew@agno.net"
+    "lastChangedBy": "andrew@agno.net",
+    "HA_PROXY": "external"
   },
   "instances": 1,
   "cpus": 0.1,
